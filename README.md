@@ -1,6 +1,6 @@
-#### Hi there 👋 I'm Kaye! Welcome to my GitHub
+## Hi there 👋 I'm Kaye! Welcome to my GitHub
 
---
+---
 
 I am an aspiring Web / Full-Stack Developer and I have a background as a freelance Graphic Designer.
 
