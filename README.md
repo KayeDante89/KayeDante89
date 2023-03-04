@@ -6,5 +6,5 @@ Although I am currently working as a Retail Buyer / Assistant Manager at a books
 
 ## 💜 She Codes Aus
 
-I am currently part of the She Codes Plus 2022/2023 cohort, a tech program that provides an alternative learning pathway for women to enter the tech industy. She Codes Plus is put together by the amazing people at [She Codes Aus](https://shecodes.com.au) and most of my work in GitHub are projects that I have been working on during the program.
+I am currently part of the She Codes Plus 2022/2023 cohort, a tech program that provides an alternative learning pathway for women to enter the tech industry. She Codes Plus is put together by the amazing people at [She Codes Aus](https://shecodes.com.au) and most of my work in GitHub are projects that I have been working on during the program.
 
