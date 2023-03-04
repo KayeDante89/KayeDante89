@@ -8,3 +8,11 @@ Although I am currently working as a Retail Buyer / Assistant Manager at a books
 
 I am currently part of the She Codes Plus 2022/2023 cohort, a tech program that provides an alternative learning pathway for women to enter the tech industry. She Codes Plus is put together by the amazing people at [She Codes Aus](https://shecodes.com.au) and most of my work in GitHub are projects that I have been working on during the program.
 
+![html logo](https://cdn-icons-png.flaticon.com/512/888/888859.png](https://cdn-icons-png.flaticon.com/512/3097/3097937.png)
+![css logo](https://cdn-icons-png.flaticon.com/512/888/888847.png](https://cdn-icons-png.flaticon.com/512/3097/3097811.png)
+![javascript logo](https://cdn-icons-png.flaticon.com/512/4726/4726005.png](https://cdn-icons-png.flaticon.com/512/3097/3097978.png)
+![python logo](https://cdn-icons-png.flaticon.com/512/2535/2535543.png)
+![react logo](https://cdn-icons-png.flaticon.com/512/6214/6214188.png)
+
+
+
