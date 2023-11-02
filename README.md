@@ -1,12 +1,17 @@
-## Hi there 👋 I'm Kaye! Welcome to my GitHub
+## Hi there 👋 Welcome to my GitHub
 
-I am an aspiring Web / Full-Stack Developer and I have a background as a freelance Graphic Designer.
+### 👩‍💻 Web Developer | 🎨 Creative Enthusiast | 🤱 Mom of Two | 🎶 Married to a Musician
 
-Although I am currently working as a Retail Buyer / Assistant Manager at a bookshop, I have fallen in love with learning programming languages and have made a goal to transition into a tech career. I am actively seeking work as a Junior Developer or an internship/apprenticeship in the tech industry.
+### 🌟 About Me:
+Hi, I'm Kaye, a passionate creator hailing from the Philippines and currently based in Perth, WA. I have always had a profound love for the world of tech and the arts. I have a background as a Graphic Designer and love delving into various creative endeavours like calligraphy and digital art (and, hopefully, pottery one day). 
 
-## 💜 She Codes Aus
+### 🚀 My Journey:
+My tech journey took flight after completing the She Code Plus course, a transformative 6-month coding bootcamp that has been run by the lovely people at [She Codes Aus](https://shecodes.com.au). This experience opened doors, enabling me to achieve my goal of landing a job as a web developer. I'm incredibly grateful for the incredible women in tech who have supported me throughout this transition. Most of my work in GitHub are projects that I have been working on during the program.
 
-I completed the She Codes Plus program on April 2023. It's a tech program that provides an alternative learning pathway for women to enter the tech industry. She Codes Plus is put together by the amazing people at [She Codes Aus](https://shecodes.com.au) and most of my work in GitHub are projects that I have been working on during the program.
+### 🌸 Giving Back:
+I'm committed to paying it forward. I actively contribute to the community by serving as a mentor in the She Codes one-day workshops and nurturing future talents within the She Codes Plus cohort. I believe in the power of mentorship and the importance of uplifting others in the tech industry.
+
+Let's connect and explore the exciting realms of technology, creativity, and personal growth together. 💡
 
 
 
