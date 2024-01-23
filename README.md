@@ -13,5 +13,6 @@ I'm committed to paying it forward. I actively contribute to the community by se
 
 Let's connect and explore the exciting realms of technology, creativity, and personal growth together. 💡
 
-
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayeDante89&layout=compact&theme=transparent&card_width=467)
 
