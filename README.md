@@ -1,7 +1,5 @@
 ## Hi there 👋 Welcome to my GitHub
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kayemdante)
-
 ### 👩‍💻 Web Developer | 🎨 Creative Enthusiast | 🤱 Mom of Two | 🎶 Married to a Musician
 
 ### 🌟 About Me:
