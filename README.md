@@ -1,17 +1,12 @@
-## Hi there 👋 Welcome to my GitHub
+<img width="1559" alt="github-banner" src="https://github.com/KayeDante89/KayeDante89/assets/113986033/04e70a84-9455-4fd4-9227-bb8b3cf0c8ef">
 
-### 👩‍💻 Web Developer | 🎨 Creative Enthusiast | 🤱 Mom of Two | 🎶 Married to a Musician
+### 👩‍💻 Web Developer | 🎨 Creative Enthusiast
 
-### 🌟 About Me:
-Hi, I'm Kaye, a passionate creator hailing from the Philippines and currently based in Perth, WA. I have always had a profound love for the world of tech and the arts. I have a background as a Graphic Designer and love delving into various creative endeavours like calligraphy and digital art (and, hopefully, pottery one day). 
+Hi, I'm Kaye! I love tech and all things FrontEnd. With my background in Graphic Design, I am excited to continuously learn to build beautiful and accessible web apps and websites.
 
-### 🚀 My Journey:
-My tech journey took flight after completing the She Code Plus course, a transformative 6-month coding bootcamp that has been run by the lovely people at [She Codes Aus](https://shecodes.com.au). This experience opened doors, enabling me to achieve my goal of landing a job as a web developer. I'm incredibly grateful for the incredible women in tech who have supported me throughout this transition. Most of my work in GitHub are projects that I have been working on during the program.
+My tech journey took flight after completing the She Code Plus course, a transformative 6-month coding bootcamp that has been run by the lovely people at [She Codes Aus](https://shecodes.com.au). This experience opened doors, enabling me to achieve my goal of landing a job as a Web Developer.
 
-### 🌸 Giving Back:
-I'm committed to paying it forward. I actively contribute to the community by serving as a mentor in the She Codes one-day workshops and nurturing future talents within the She Codes Plus cohort. I believe in the power of mentorship and the importance of uplifting others in the tech industry.
-
-Let's connect and explore the exciting realms of technology, creativity, and personal growth together. 💡
+**A few on my favorite things**: Coffee | Beach | Books | Family | Art
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KayeDante89&layout=compact&theme=transparent&card_width=467)
