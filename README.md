@@ -1,4 +1,5 @@
-<img width="1559" alt="github-banner" src="https://github.com/KayeDante89/KayeDante89/assets/113986033/04e70a84-9455-4fd4-9227-bb8b3cf0c8ef">
+![Copy of linkedin banner](https://github.com/KayeDante89/KayeDante89/assets/113986033/4c283ad7-3e2e-4d23-a3d2-5d80d6d179e2)
+
 
 ### 👩‍💻 Web Developer | 🎨 Creative Enthusiast
 
