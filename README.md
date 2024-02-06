@@ -15,6 +15,7 @@ My tech journey took flight after completing the She Code Plus course, a transfo
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px"/>
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px" width="50px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50px" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50px" width="50px"/>
 
 
