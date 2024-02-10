@@ -1,4 +1,4 @@
-![Copy of linkedin banner](https://github.com/KayeDante89/KayeDante89/assets/113986033/4c283ad7-3e2e-4d23-a3d2-5d80d6d179e2)
+![Copy of linkedin banner (1)](https://github.com/KayeDante89/KayeDante89/assets/113986033/7bed2783-0a7b-4352-823b-d7198d0fc28a)
 
 
 ### 👩‍💻 Web Developer | 🎨 Creative Enthusiast
